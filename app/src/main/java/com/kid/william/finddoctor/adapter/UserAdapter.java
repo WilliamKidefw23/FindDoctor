@@ -16,7 +16,6 @@ public class UserAdapter {
 
         public ViewHolder(View itemView) {
             super(itemView);
-            //textemail = itemView.findViewById(R.id.text_email);
             itemView.setOnClickListener(this);
 
         }
